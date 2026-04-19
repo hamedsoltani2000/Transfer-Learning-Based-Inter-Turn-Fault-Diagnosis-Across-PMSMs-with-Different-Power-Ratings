@@ -1,1 +1,1 @@
-# Transfer-Learning-Based-Inter-Turn-Fault-Diagnosis-Across-PMSMs-with-Different-Power-Ratings
+# Transfer Learning Based Inter Turn Fault Diagnosis Across PMSMs with Different Power Ratings
